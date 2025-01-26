@@ -5,15 +5,13 @@ This is a simple Flappy Bird clone developed using Unity. The objective of the g
 
 ## 🎮 Gameplay
 - Press [spacebar/any key or tap] to make the bird flap.
-- Avoid hitting the pipes or the ground.
+- Avoid hitting the pipes.
 - The game ends if the bird collides with obstacles.
 - Try to achieve the highest score!
 
 ## 🛠️ Features
 - Smooth and responsive controls
 - Scoring system
-- Animated bird and obstacles
-- Sound effects and background music
 - Randomly generated pipe gaps
 - Simple yet addictive gameplay
 
