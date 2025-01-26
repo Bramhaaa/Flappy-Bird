@@ -27,10 +27,8 @@ This is a simple Flappy Bird clone developed using Unity. The objective of the g
 3. Click on "Play" in the Unity Editor to run the game.
 
 ## 🖼️ Screenshots
-![Screenshot 2025-01-26 at 11 14 37 AM](https://github.com/user-attachments/assets/3e844d37-ddae-4d9a-a23b-0300eba48c20)<br>
-![Screenshot 2025-01-26 at 11 14 24 AM](https://github.com/user-attachments/assets/748987a3-96ce-405a-9c74-a17652721d4e)
-
-
+![Screenshot 2025-01-26 at 11 14 24 AM](https://github.com/user-attachments/assets/748987a3-96ce-405a-9c74-a17652721d4e)<br>
+![Screenshot 2025-01-26 at 11 14 37 AM](https://github.com/user-attachments/assets/3e844d37-ddae-4d9a-a23b-0300eba48c20)
 
 ## 🔧 Technologies Used
 - Unity
