@@ -19,7 +19,6 @@ This is a simple Flappy Bird clone developed using Unity. The objective of the g
 1. Clone this repository:
    ```bash
    git clone https://github.com/Bramhaaa/Flappy-bird.git
-   cd flappy-bird-game
    ```
 2. Open the project in Unity.
 3. Click on "Play" in the Unity Editor to run the game.
